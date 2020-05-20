@@ -16,3 +16,4 @@
 
 # Configure applications
 # git - set name, e-mail, editor
+# Put wallpapers in Pictures/wallpapers
